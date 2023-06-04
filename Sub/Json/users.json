@@ -1,0 +1,26 @@
+[
+    {
+        "userid": "admin",
+        "password": "admin",
+        "name": "John Doe",
+        "user_type": "admin"
+    },
+    {
+        "userid": "10102020",
+        "password": "10102020",
+        "name": "Winter Bells",
+        "user_type": "student"
+    },
+    {
+        "userid": "10102021",
+        "password": "10102021",
+        "name": "Ana Brown",
+        "user_type": "student"
+    },
+    {
+        "userid": "10102022",
+        "password": "10102022",
+        "name": "Leon Whispers",
+        "user_type": "student"
+    }
+]

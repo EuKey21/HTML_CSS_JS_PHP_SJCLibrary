@@ -1,0 +1,76 @@
+* {
+    font-family: "Poppins";
+}
+.my-checkbox-inline {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.my-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-center-txt {
+    text-align: center;
+}
+
+.my-toparea {
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.my-login {
+    padding-top: 25vh;
+}
+
+.my-login-box {
+    border-radius: 10px;
+    padding: 30px;
+    background: lightskyblue;
+    box-shadow: 5px 10px lightsteelblue;
+}
+
+.my-user-status {
+    position: relative;
+    top: 100;
+    right: 0;
+}
+
+.my-transparent-box {
+    background-color: rgba(0, 0, 0, .05);
+}
+
+.my-transparent-table {
+    background-color: rgba(255, 255, 255, 0.65);
+}
+
+.my-card {
+    width: 60%;
+}
+
+.my-row-height {
+    height: 100px;
+}
+
+.my-btn-padding {
+    padding-top: 15px;
+}
+
+.my-cover {
+    width: 300px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat
+}

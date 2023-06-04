@@ -1,0 +1,263 @@
+[
+    {
+        "ISBN": "9780140444308",
+        "title": "Les Miserables",
+        "author": "Victor Hugo",
+        "genre": "historical fiction",
+        "publisher": "Penguin Classics",
+        "publish_year": "1982",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780451532152",
+        "title": "Journey to the Center of the Earth",
+        "author": "Jules Verne",
+        "genre": "science fiction",
+        "publisher": "Signet",
+        "publish_year": "2012",
+        "reserved": "10102020"
+    },
+    {
+        "ISBN": "9780062073501",
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "genre": "detective fiction",
+        "publisher": "Harper",
+        "publish_year": "2011",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780312924584",
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "genre": "detective fiction",
+        "publisher": "St. Martin's Paperbacks",
+        "publish_year": "1991",
+        "reserved": ""
+    },
+    {
+        "ISBN": " 9780786915743",
+        "title": "Dragonlance Chronicles Book 1",
+        "author": "Tracy Hickman, Margaret Weis",
+        "genre": "fantasy",
+        "publisher": "Wizards of the Coast",
+        "publish_year": "2010",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9781932796780",
+        "title": "Dragonlance Chronicles Volume 2: Dragons of Winter Night",
+        "author": "Tracy Hickman, Margaret Weis",
+        "genre": "fantasy",
+        "publisher": "IDW Publishing",
+        "publish_year": "2015",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780786930708",
+        "title": "Dragons of Spring Dawning (Dragonlance Chronicles, Vol. 3)",
+        "author": "Tracy Hickman, Margaret Weis",
+        "genre": "fantasy",
+        "publisher": "Wizards of the Coast",
+        "publish_year": "2003",
+        "reserved": ""
+    },
+    {
+        "ISBN": "97875443321724",
+        "title": "The Catcher in the Rye",
+        "author": "J.D Salinger",
+        "genre": "historical fiction",
+        "publisher": "Little, Brown and Company",
+        "publish_year": "1951",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780062658746",
+        "title": "Bridge to Terabithia",
+        "author": "Katherine Paterson",
+        "genre": "fantasy",
+        "publisher": "Thomas Y. Crowell Co",
+        "publish_year": "1977",
+        "reserved": ""
+    },
+    {
+        "ISBN": "978142811903",
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "genre": "historical fiction",
+        "publisher": "Seeker and Warburg",
+        "publish_year": "1945",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780141315188",
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "genre": "historical fiction",
+        "publisher": "Ticknor and Fields",
+        "publish_year": "1850",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780679417392",
+        "title": "Nineteen Eighty-Four",
+        "author": "George Orwell",
+        "genre": "science fiction",
+        "publisher": "Seeker and Warburg",
+        "publish_year": "1949",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780143058137",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "genre": "science fiction",
+        "publisher": "Lockington, Hughes, Harding, Mavor & Jones",
+        "publish_year": "1818",
+        "reserved": ""
+    },
+    {
+        "ISBN": "978007441426",
+        "title": "A Game of Thrones",
+        "author": "George R.R Martin",
+        "genre": "fantasy",
+        "publisher": "Bantam Spectra (US)",
+        "publish_year": "1966",
+        "reserved": ""
+    },
+    {
+        "ISBN": "978006219200",
+        "title": "Strong Poison",
+        "author": "Dorothy L. Sayers",
+        "genre": "detective fiction",
+        "publisher": "Gollancz",
+        "publish_year": "1930",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9781478629412",
+        "title": "Beka Lamb",
+        "author": "Zee Edgell",
+        "genre": "historical fiction",
+        "publisher": "Heinemann",
+        "publish_year": "1982",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780525565116",
+        "title": "Whose Body",
+        "author": "Dorothy L. Sayers",
+        "genre": "detective fiction",
+        "publisher": "T. Fisher Unwin",
+        "publish_year": "1983",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780345331380",
+        "title": "A Princess of Mars",
+        "author": "Edgar Rice Burroughs",
+        "genre": "science fiction",
+        "publisher": "A.C McClurg",
+        "publish_year": "1912",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9781522633976",
+        "title": "The Once and Future King",
+        "author": "T.H White",
+        "genre": "fantasy",
+        "publisher": "William Collins, Son",
+        "publish_year": "1958",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780812966459",
+        "title": "The Invisible Man",
+        "author": "H.G Wells",
+        "genre": "science fiction",
+        "publisher": "Edward Arnolds",
+        "publish_year": "1897",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780743273565",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "historical fiction",
+        "publisher": "J.B Lippincott & Co",
+        "publish_year": "1960",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780375759062",
+        "title": "The Woman in White",
+        "author": "Wilkie Collins",
+        "genre": "detective fiction",
+        "publisher": "All the Year Round",
+        "publish_year": "2002",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780552124751",
+        "title": "The Colour of Magic",
+        "author": "Terry Pratchett",
+        "genre": "fantasy",
+        "publisher": "Collin Synthe",
+        "publish_year": "1983",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780345538987",
+        "title": "Jurassic Park",
+        "author": "Michael Chrichton",
+        "genre": "science fiction",
+        "publisher": "Alfred A. Knopf",
+        "publish_year": "1990",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9781599866741",
+        "title": "A Study in Scarlet",
+        "author": "Arthur Conan Doyle",
+        "genre": "detective fiction",
+        "publisher": "Ward Lock & Co",
+        "publish_year": "1887",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780099529583",
+        "title": "The Murders in the Rue Morgue",
+        "author": "Edgar Allen Poe",
+        "genre": "detective fiction",
+        "publisher": "in Graham's Magazine",
+        "publish_year": "1841",
+        "reserved": ""
+    },
+    {
+        "ISBN": "8601401288732",
+        "title": "The Night Circus",
+        "author": "Erin Morgenster",
+        "genre": "fantasy",
+        "publisher": "Double Day",
+        "publish_year": "2011",
+        "reserved": ""
+    },
+    {
+        "ISBN": "0738095236881",
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "genre": "historical fiction",
+        "publisher": "J.B Lippincott & Co",
+        "publish_year": "1960",
+        "reserved": ""
+    },
+    {
+        "ISBN": "9780060550226",
+        "title": "Gaudy Night",
+        "author": "Dorothy L. Sayers",
+        "genre": "detective fiction",
+        "publisher": "Gollancz",
+        "publish_year": "1935",
+        "reserved": ""
+    }
+]
